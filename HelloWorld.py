@@ -1,8 +1,5 @@
-print("Można")
-print("Chyba można")
+print("Hello World!")
 
-# print("Hello World!")
-#
 while True:
     input("cos")
 
